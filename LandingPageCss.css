@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.top-bg-container {
+    background-color: #894bca;
+    height: 100%;
+    background-size: cover;
+}
+
+.top-container {
+    padding: 14px;
+}
+
+.top-container-heading {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.top-container-image {
+    width: 210px;
+    height: 190px;
+    padding-left: 20px;
+    padding-top: 5px;
+    margin-left: 20px;
+    text-align: right;
+}
+
+.bottom-bg-container {
+    background-color: #ffffff;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    padding: 20px;
+}
+
+.bottom-heading {
+    color: #f780c3;
+    font-family: Bree Serif;
+    font-size: 25px;
+    padding: 20px;
+}
+
+.shopping-image {
+    width: 80px;
+    height: 80px;
+    padding: 20px;
+}
+
+.shopping-heading {
+    color: #323f4b;
+    font-family: Bree Serif;
+    font-size: 15px;
+}
+
+.shopping-paragraph {
+    color: #7b8794;
+    font-family: Bree Serif;
+    font-size: 12px;
+}
+
+.shopping-container {
+    padding: 20px;
+}
